@@ -29,8 +29,8 @@ marketing:
 
 # Site header
 
-header:
-  navbar:
+header: Thomas Eisfeld
+  navbar: Thomas Eisfeld
     enable: true
     align: l
     show_logo: true
